@@ -5,3 +5,4 @@ Exercise Python Fundamental
 
 ## Edit with PyCharm
 ## Edit with Github
+- push dari branch 1
